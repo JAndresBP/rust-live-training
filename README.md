@@ -1,5 +1,12 @@
-# rust-new-project-template
-A good starting point for a new Rust project
+# Rust live training
+
+## Launch codespaces 
+
+## make sure rust is working
+* rustc --version
+* hello world: `cargo new hello`
+
+
 
 ## References
 
